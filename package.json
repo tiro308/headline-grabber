@@ -1,0 +1,16 @@
+{
+  "name": "headline-grabber",
+  "version": "1.0.0",
+  "description": "search through TEXT_NODES in DOM by CSS selectors",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Robin Titz",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.0"
+  }
+}
+                
